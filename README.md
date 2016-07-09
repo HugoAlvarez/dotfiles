@@ -1,1 +1,1 @@
-Estos son mis dotfiles para estar como en linux
+Estos son mis dotfiles para estar comodo en linux
